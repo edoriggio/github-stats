@@ -51,11 +51,11 @@ li {
   animation-fill-mode: forwards;
 }
 
-@keyframes slideIn {
+<!-- @keyframes slideIn {
   to {
     transform: translateX(0);
   }
-}
+} -->
 
 div.ellipsis {
   height: 100%;
