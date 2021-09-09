@@ -50,13 +50,7 @@ li {
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
 }
-
-@keyframes slideIn {
-  to {
-    transform: translateX(0);
-  }
-}
-
+  
 div.ellipsis {
   height: 100%;
   overflow: hidden;
